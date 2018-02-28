@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 # 模块名
   s.name         = "person"
 # 版本号, 需要注意的是: 当仓库代码push到远程仓库的时候, 需要打上tag. tag和版本号必须一致!!!
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
 # 简短描述
   s.summary      = "A delightful iOS and OS X networking framework."
 
